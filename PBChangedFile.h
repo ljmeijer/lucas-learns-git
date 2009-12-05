@@ -28,6 +28,8 @@ typedef enum {
 }
 
 
+//blablalblabll
+
 @property (copy) NSString *path, *commitBlobSHA, *commitBlobMode;
 @property (assign) PBChangedFileStatus status;
 @property (assign) BOOL hasStagedChanges, hasUnstagedChanges;
