@@ -8,7 +8,7 @@
 //
 
 #import <Cocoa/Cocoa.h>
-
+#import "Yeahbaby"
 
 @interface speedtest : NSObject {
 
