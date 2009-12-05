@@ -11,6 +11,7 @@
 //  This work is licensed under a Creative Commons license:
 //  http://creativecommons.org/licenses/by/3.0/
 //
+// lucas lucas
 //  11 March 2007 : Initial 1.0 release
 //  15 March 2007 : Version 1.1
 //                  Resizing is now handled along with the cross-fade by
