@@ -4,6 +4,8 @@
 //
 //  Created by Pieter de Bie on 13-06-08.
 //  Copyright __MyCompanyName__ 2008 . All rights reserved.
+//  Lucas also did some stuff
+//  Add another small feature
 //
 // add something on a different branch
 
