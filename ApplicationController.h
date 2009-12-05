@@ -15,6 +15,7 @@
 {
 	IBOutlet NSWindow *window;
 	IBOutlet id firstResponder;
+	//work on the main branch
 	NSPersistentStoreCoordinator *persistentStoreCoordinator;
 	NSManagedObjectModel *managedObjectModel;
 	NSManagedObjectContext *managedObjectContext;
