@@ -5,6 +5,8 @@
 //  Created by Pieter de Bie on 15-06-08.
 //  Copyright 2008 __MyCompanyName__. All rights reserved.
 //
+// Add some stuff
+//
 
 #import <Cocoa/Cocoa.h>
 #import "PBGitRepository.h"
